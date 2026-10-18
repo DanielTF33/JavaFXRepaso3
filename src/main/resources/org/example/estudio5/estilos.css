@@ -30,3 +30,13 @@
     -fx-font-size: 20px;
     -fx-text-fill: aqua;
 }
+
+#btnAnadir:hover {
+    -fx-background-color: darkgreen;
+    -fx-text-fill: white;
+}
+
+#btnEliminar:hover {
+    background-color: darkred;
+    -fx-text-fill: gold;
+}

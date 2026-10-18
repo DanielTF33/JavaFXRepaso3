@@ -1,0 +1,32 @@
+.root {
+    -fx-background-color: lightslategrey;
+}
+
+#lblTitulo {
+    -fx-font-family: "MS Gothic";
+}
+
+.button {
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-font-family: "Comic Sans MS";
+}
+
+#btnAnadir {
+    -fx-background-color: lightgreen;
+}
+
+#btnEliminar {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+
+#sldTemperatura {
+    -fx-background-color: darksalmon;
+    -fx-background-radius: 20px;
+}
+
+#lblContadorServidores {
+    -fx-font-size: 20px;
+    -fx-text-fill: aqua;
+}
